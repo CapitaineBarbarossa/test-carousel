@@ -1,0 +1,17 @@
+{
+    "products": 
+    [ 
+        { 
+        "id":1,
+        "image": "ressources/among_us.jpg"
+        },
+        {  
+        "id":2,
+        "image": "ressources/pubg.jpg"
+        }, 
+        { 
+        "id":3,
+        "image": "ressources/lol.png"
+        } 
+    ]
+}
